@@ -1,0 +1,9 @@
+{
+  "komentar": [
+    {
+      "id" : 1,
+      "nama" : "Nama Pengomentar",
+      "body" : "Ini Isi Komentarnya"
+    }
+  ]
+}
