@@ -2,18 +2,25 @@
   "komentar": [
     {
       "id" : 1,
-      "nama" : "Nama Pengomentar",
-      "body" : "Ini Isi Komentarnya"
+      "nama" : "Raisa",
+      "body" : "Ini Isi Komentarnya Raisa",
+      "created_at": "21 Januari 2022 16:00:00",
+      "updated_at": "21 Januari 2022 16:00:00"
     },
     {
       "id" : 2,
-      "nama" : "Komentar 2",
-      "body" : "Ini Komentar kedua isinya agak panjang"
+      "nama" : "Supriatna",
+      "body" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "created_at": "21 Januari 2022 17:00:00",
+      "updated_at": "21 Januari 2022 17:00:00"
+      
     },
     {
       "id" : 3,
-      "nama" : "Komentar 3",
-      "body" : "Tidak Bisa di ubah"
+      "nama" : "Gozenx",
+      "body" : "Ini juga sama isinya Lorem ipsum dolor sit amet.",
+      "created_at": "21 Januari 2022 18:00:00",
+      "updated_at": "21 Januari 2022 18:20:00"
     }
   ]
 }
