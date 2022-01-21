@@ -1,14 +1,19 @@
 {
   "komentar": [
     {
-      "id" : 1,
-      "nama" : "Nama Pengomentar",
-      "body" : "Ini Isi Komentarnya"
+      id : 1,
+      nama : "Nama Pengomentar",
+      body : "Ini Isi Komentarnya"
     },
     {
-      "id" : 2,
-      "nama" : "Komentar 2",
-      "body" : "Ini Komentar kedua isinya agak panjang"
+      id : 2,
+      nama : "Komentar 2",
+      body : "Ini Komentar kedua isinya agak panjang"
     },
+    {
+      id : 3,
+      nama : "Komentar 3",
+      body : "Tidak Bisa di ubah"
+    }
   ]
 }
