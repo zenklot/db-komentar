@@ -17,8 +17,8 @@
                     "image_align": "right",
                     "background_color": "#ffffff",
                     "text_color": "#613610",
-                    "created_at": "2020-01-01 00:00:00",
-                    "updated_at": "2020-01-01 00:00:00"
+                    "created_at": "2020-04-02T17:26:13.265Z",
+                    "updated_at": "2020-04-02T17:26:13.265Z"
                 }
             },
             {
@@ -34,8 +34,8 @@
                     "image_align": "left",
                     "background_color": "#ffffff",
                     "text_color": "#000000",
-                    "created_at": "2020-01-01 00:00:00",
-                    "updated_at": "2020-01-01 00:00:00"
+                    "created_at": "2020-04-02T17:26:13.265Z",
+                    "updated_at": "2020-04-02T17:26:13.265Z"
                 }
             },
             {
@@ -47,8 +47,8 @@
                     "background_color": "#653310",
                     "text_color": "#fff",
                     "font_type": "Arial",
-                    "created_at": "2020-01-01 00:00:00",
-                    "updated_at": "2020-01-01 00:00:00"
+                    "created_at": "2020-04-02T17:26:13.265Z",
+                    "updated_at": "2020-04-02T17:26:13.265Z"
                 }
             },
             {
@@ -64,8 +64,8 @@
                     "image_align": "left",
                     "background_color": "#653310",
                     "text_color": "#fff",
-                    "created_at": "2020-01-01 00:00:00",
-                    "updated_at": "2020-01-01 00:00:00"
+                    "created_at": "2020-04-02T17:26:13.265Z",
+                    "updated_at": "2020-04-02T17:26:13.265Z"
                 }
             },
             {
@@ -81,8 +81,8 @@
                     "image_align": "right",
                     "background_color": "#653310",
                     "text_color": "#fff",
-                    "created_at": "2020-01-01 00:00:00",
-                    "updated_at": "2020-01-01 00:00:00"
+                    "created_at": "2020-04-02T17:26:13.265Z",
+                    "updated_at": "2020-04-02T17:26:13.265Z"
                 }
             },
             {
@@ -98,8 +98,8 @@
                     "image_align": "left",
                     "background_color": "#653310",
                     "text_color": "#fff",
-                    "created_at": "2020-01-01 00:00:00",
-                    "updated_at": "2020-01-01 00:00:00"
+                    "created_at": "2020-04-02T17:26:13.265Z",
+                    "updated_at": "2020-04-02T17:26:13.265Z"
                 }
             }
         ]
