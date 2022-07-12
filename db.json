@@ -1,107 +1,109 @@
 {
     "data": {
-    "success": true,
-    "code": 200,
-    "message": "Success",
-    "data": [
-        {
-            "type": "article",
-            "content": {
-                "id": 1,
-                "title": null,
-                "title_align": "left",
-                "heading": "YOSAFAT HUTAGALUNG",
-                "description_1": null,
-                "description_2": "OWNER OM HUT PARKOPI",
-                "image": "https://via.placeholder.com/500",
-                "image_align": "right",
-                "background_color": "#ffffff",
-                "text_color": "#613610",
-                "created_at": "2020-01-01 00:00:00",
-                "updated_at": "2020-01-01 00:00:00"
+        "success": true,
+        "code": 200,
+        "message": "Success",
+        "data": [
+            {
+                "type": "article",
+                "content": {
+                    "id": 1,
+                    "title": null,
+                    "title_align": "left",
+                    "heading": "YOSAFAT HUTAGALUNG",
+                    "description_1": null,
+                    "description_2": "OWNER OM HUT PARKOPI",
+                    "image": "https://via.placeholder.com/500",
+                    "image_align": "right",
+                    "background_color": "#ffffff",
+                    "text_color": "#613610",
+                    "created_at": "2020-01-01 00:00:00",
+                    "updated_at": "2020-01-01 00:00:00"
+                }
+            },
+            {
+                "type": "article",
+                "content": {
+                    "id": 2,
+                    "title": null,
+                    "title_align": "left",
+                    "heading": "TENTANG YOSAFAT HUTAGALUNG",
+                    "description_1": "Memiliki tanggung jawab besar sebagai Human Capital Director, Yosafat Hutagalung tidak merasa itu sebuah halangan baginya untuk membuka sebuah bisnis. Sebagai lulusan Psikologi dari Universitas Padjadjaran, Yosafat telah bekerja di dunia Human Resource lebih dari 20 tahun. Disela kesibukannya bekerja, berbagai macam bisnis telah ia tekuni dalam kesehariannya. Dalam setiap bisnis yang ia buat, ia selalu memiliki keinginan agar bisnis yang ia buat bisa bermanfaat bagi orang banyak dan mengembangkan kemampuan setiap pekerjanya. ",
+                    "description_2": "Salah satu bisnis yang telah ia buat adalah Om Hut Parkopi yang merupakan sebuah cafe yang berada di Tangerang. Cafe Om Hut Parkopi menyediakan aneka ragam kopi yang berasal dari Indonesia. Yosafat yang berasal dari Sumatera Utara, membawakan nuansa-nuansa budaya khas Sumatera Utara kedalam konsep Cafe Om Hut Parkopi. Hal tersebut menjadi keunikan sendiri dan bisa terlihat melalui dekorasi-dekorasi cafe yang digunakan.                ",
+                    "image": "https://via.placeholder.com/500",
+                    "image_align": "left",
+                    "background_color": "#ffffff",
+                    "text_color": "#000000",
+                    "created_at": "2020-01-01 00:00:00",
+                    "updated_at": "2020-01-01 00:00:00"
+                }
+            },
+            {
+                "type": "quotes",
+                "content": {
+                    "id": 3,
+                    "quotes": "INI CONTOH QUOTES YANG DIGUNAKAN",
+                    "quotes_align": "center",
+                    "background_color": "#653310",
+                    "text_color": "#fff",
+                    "font_type": "Arial",
+                    "created_at": "2020-01-01 00:00:00",
+                    "updated_at": "2020-01-01 00:00:00"
+                }
+            },
+            {
+                "type": "article",
+                "content": {
+                    "id": 4,
+                    "title": "KOPI BUAT SIAPA AJA",
+                    "title_align": "center",
+                    "heading": null,
+                    "description_1": "Tidak lama setelah buka, pandemi Covid-19 menerpa seluruh Indonesia. Oleh karena itu, Om Hut Parkopi harus mencari cara lain untuk memasarkan produk mereka dan tetap bertahan menghadapi pandemi. Membuat produk kopi literan dan produk makanan yang tinggal dihangatkan menjadi solusi yang dilakukan. Namun, produknya tersebut tidak dapat menjangkau banyak kalangan karena kendala jarak yang membatasi pemasarannya. Sampai akhirnya, Om Hut mendapatkan solusi dengan membuat produk kopi seduh dalam kemasan yang bisa dipasarkan ke seluruh Indonesia.",
+                    "description_2": null,
+                    "image": "https://via.placeholder.com/500",
+                    "image_align": "left",
+                    "background_color": "#653310",
+                    "text_color": "#fff",
+                    "created_at": "2020-01-01 00:00:00",
+                    "updated_at": "2020-01-01 00:00:00"
+                }
+            },
+            {
+                "type": "article",
+                "content": {
+                    "id": 5,
+                    "title": null,
+                    "title_align": "left",
+                    "heading": "KOPI YANG BERASAL DARI INDONESIA DAN PETANI INDONESIA",
+                    "description_1": "Berbagai macam kopi khas Indonesia telah tersedia dalam bentuk kemasan yang dipasarkan oleh Om Hut Parkopi. Aneka ragam kopi tersebut didapat dari hasil bekerja sama dengan para petani dan artisan lokal. Om Hut Parkopi memilih bekerja sama dengan mereka karena hal tersebut merupakan salah satu cara untuk memberdayakan para petani dan artisan lokal. Selain alasan tersebut, para petani dan artisan lokal yang telah bekerja sama telah memiliki kemampuan dan kualitas bahan yang baik. Hal tersebut memberikan keuntungan bagi kedua belah pihak dan memastikan pelanggan Om Hut Parkopi bahwa setiap produkyang dijual sudah terjamin kualitasnya.",
+                    "description_2": null,
+                    "image": "https://via.placeholder.com/500",
+                    "image_align": "right",
+                    "background_color": "#653310",
+                    "text_color": "#fff",
+                    "created_at": "2020-01-01 00:00:00",
+                    "updated_at": "2020-01-01 00:00:00"
+                }
+            },
+            {
+                "type": "article",
+                "content": {
+                    "id": 6,
+                    "title": null,
+                    "title_align": "left",
+                    "heading": "GROWING PEOPLE",
+                    "description_1": "Selain berbisnis, Yosafat memiliki tujuan lain dalam membangun bisnis-bisnisyang pernah ia buat. la memiliki keinginan agar setiap pegawainya tidak hanya asal bekerja, tapi bisa berkembang dalam setiap bidang yang mereka kerjakan. Hal tersebut telah dilakukannya karena latar belakangnya sebagai seorang HR dan merasa bahwa sudah tanggung jawab seorang atasan untuk mengembangkan setiap pekerja agar bisa mencapai potensi maksimalnya. ",
+                    "description_2": null,
+                    "image": "https://via.placeholder.com/500",
+                    "image_align": "left",
+                    "background_color": "#653310",
+                    "text_color": "#fff",
+                    "created_at": "2020-01-01 00:00:00",
+                    "updated_at": "2020-01-01 00:00:00"
+                }
             }
-        },
-        {
-            "type": "article",
-            "content": {
-                "id": 2,
-                "title": null,
-                "title_align": "left",
-                "heading": "TENTANG YOSAFAT HUTAGALUNG",
-                "description_1": "Memiliki tanggung jawab besar sebagai Human Capital Director, Yosafat Hutagalung tidak merasa itu sebuah halangan baginya untuk membuka sebuah bisnis. Sebagai lulusan Psikologi dari Universitas Padjadjaran, Yosafat telah bekerja di dunia Human Resource lebih dari 20 tahun. Disela kesibukannya bekerja, berbagai macam bisnis telah ia tekuni dalam kesehariannya. Dalam setiap bisnis yang ia buat, ia selalu memiliki keinginan agar bisnis yang ia buat bisa bermanfaat bagi orang banyak dan mengembangkan kemampuan setiap pekerjanya. ",
-                "description_2": "Salah satu bisnis yang telah ia buat adalah Om Hut Parkopi yang merupakan sebuah cafe yang berada di Tangerang. Cafe Om Hut Parkopi menyediakan aneka ragam kopi yang berasal dari Indonesia. Yosafat yang berasal dari Sumatera Utara, membawakan nuansa-nuansa budaya khas Sumatera Utara kedalam konsep Cafe Om Hut Parkopi. Hal tersebut menjadi keunikan sendiri dan bisa terlihat melalui dekorasi-dekorasi cafe yang digunakan.                ",
-                "image": "https://via.placeholder.com/500",
-                "image_align": "left",
-                "background_color": "#ffffff",
-                "text_color": "#000000",
-                "created_at": "2020-01-01 00:00:00",
-                "updated_at": "2020-01-01 00:00:00"
-            }
-        },
-        {
-            "type": "quotes",
-            "content": {
-                "id": 3,
-                "quotes": "INI CONTOH QUOTES YANG DIGUNAKAN",
-                "quotes_align": "center",
-                "background_color": "#653310",
-                "text_color": "#fff",
-                "font_type": "Arial",
-                "created_at": "2020-01-01 00:00:00",
-                "updated_at": "2020-01-01 00:00:00"
-            }
-        },
-        {
-            "type": "article",
-            "content": {
-                "id": 4,
-                "title": "KOPI BUAT SIAPA AJA",
-                "title_align": "center",
-                "heading": null,
-                "description_1": "Tidak lama setelah buka, pandemi Covid-19 menerpa seluruh Indonesia. Oleh karena itu, Om Hut Parkopi harus mencari cara lain untuk memasarkan produk mereka dan tetap bertahan menghadapi pandemi. Membuat produk kopi literan dan produk makanan yang tinggal dihangatkan menjadi solusi yang dilakukan. Namun, produknya tersebut tidak dapat menjangkau banyak kalangan karena kendala jarak yang membatasi pemasarannya. Sampai akhirnya, Om Hut mendapatkan solusi dengan membuat produk kopi seduh dalam kemasan yang bisa dipasarkan ke seluruh Indonesia.",
-                "description_2": null,
-                "image": "https://via.placeholder.com/500",
-                "image_align": "left",
-                "background_color": "#653310",
-                "text_color": "#fff",
-                "created_at": "2020-01-01 00:00:00",
-                "updated_at": "2020-01-01 00:00:00"
-            }
-        },
-        {
-            "type": "article",
-            "content": {
-                "id": 5,
-                "title": null,
-                "title_align": "left",
-                "heading": "KOPI YANG BERASAL DARI INDONESIA DAN PETANI INDONESIA",
-                "description_1": "Berbagai macam kopi khas Indonesia telah tersedia dalam bentuk kemasan yang dipasarkan oleh Om Hut Parkopi. Aneka ragam kopi tersebut didapat dari hasil bekerja sama dengan para petani dan artisan lokal. Om Hut Parkopi memilih bekerja sama dengan mereka karena hal tersebut merupakan salah satu cara untuk memberdayakan para petani dan artisan lokal. Selain alasan tersebut, para petani dan artisan lokal yang telah bekerja sama telah memiliki kemampuan dan kualitas bahan yang baik. Hal tersebut memberikan keuntungan bagi kedua belah pihak dan memastikan pelanggan Om Hut Parkopi bahwa setiap produkyang dijual sudah terjamin kualitasnya.",
-                "description_2": null,
-                "image": "https://via.placeholder.com/500",
-                "image_align": "right",
-                "background_color": "#653310",
-                "text_color": "#fff",
-                "created_at": "2020-01-01 00:00:00",
-                "updated_at": "2020-01-01 00:00:00"
-            }
-        },
-        {
-            "type": "article",
-            "content": {
-                "id": 6,
-                "title": null,
-                "title_align": "left",
-                "heading": "GROWING PEOPLE",
-                "description_1": "Selain berbisnis, Yosafat memiliki tujuan lain dalam membangun bisnis-bisnisyang pernah ia buat. la memiliki keinginan agar setiap pegawainya tidak hanya asal bekerja, tapi bisa berkembang dalam setiap bidang yang mereka kerjakan. Hal tersebut telah dilakukannya karena latar belakangnya sebagai seorang HR dan merasa bahwa sudah tanggung jawab seorang atasan untuk mengembangkan setiap pekerja agar bisa mencapai potensi maksimalnya. ",
-                "description_2": null,
-                "image": "https://via.placeholder.com/500",
-                "image_align": "left",
-                "background_color": "#653310",
-                "text_color": "#fff",
-                "created_at": "2020-01-01 00:00:00",
-                "updated_at": "2020-01-01 00:00:00"
-            }
-        }
-    ]
-  }
+        ]
+    
+        
+      }
 }
