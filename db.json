@@ -96,6 +96,54 @@
                         "text_color": "#fff",
                         "font_type": null
                     }
+                },
+                {
+                    "type": "article",
+                    "content": {
+                        "id": 7,
+                        "title": null,
+                        "title_align": "left",
+                        "heading": null,
+                        "description_1": "Memiliki misi agar masakan Indonesia lebih dikenal di dunia, serta memperkenalkan kultur masakan Indonesia ke manta negara. Setiap produk Restu Mande menggunakan rempah dan bahan terbaik serta aman, hingga mendapatkan sertifikasi yang menjamin kualitas produkn-ya. Sertifikasi tersebut memberikan kesempatan bagi Restu Mande untuk 'Go International' dan menghadirkan solusi bagi orang Indonesia di luar negeri yang merindukan masakan tanah air dengan produk-produknya.\nDengan berbagai proses yang telah tersertifikasi mulai dari pemilihan bahan, proses memasak hingga pengemasannya. Produkvakum dalam kemasan Restu Mande bisa bertahan hingga 1 tahun, serta produknya tidak menggunakan bahan kimia dan MSG dalam proses pembuatan-nya.\nHal tersebut membantu dalam memasarkan produk ke mancanegara dan merealisasikan salah satu misi Restu Mande. Sampai sekarang, Restu Mande telah tersedia di beberapa retail luar negeri dan memiliki sejumlah reseller yang tersebar di Australia, Hongkong, Filipina, Nor-wegia, Prancis dan Amerika.",
+                        "description_2": null,
+                        "image": "https://via.placeholder.com/500",
+                        "image_align": "left",
+                        "background_color": "#851716",
+                        "text_color": "#fff",
+                        "font_type": "nunito"
+                    }
+                },
+                {
+                    "type": "article",
+                    "content": {
+                        "id": 8,
+                        "title": null,
+                        "title_align": "left",
+                        "heading": "Headingnya doang ini teh",
+                        "description_1": null,
+                        "description_2": null,
+                        "image": null,
+                        "image_align": "right",
+                        "background_color": "#851716",
+                        "text_color": "#fff",
+                        "font_type": "nunito"
+                    }
+                },
+                {
+                    "type": "article",
+                    "content": {
+                        "id": 9,
+                        "title": null,
+                        "title_align": "left",
+                        "heading": "Headingnya doang ini teh left",
+                        "description_1": null,
+                        "description_2": null,
+                        "image": null,
+                        "image_align": "left",
+                        "background_color": "#851716",
+                        "text_color": "#fff",
+                        "font_type": "nunito"
+                    }
                 }
             ],
             "first_page_url": "http://ecommerce.sandbox-services.jwalbli.com/api/v1/shop?page=1",
