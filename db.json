@@ -12,13 +12,13 @@
                         "id": 1,
                         "title": null,
                         "title_align": "left",
-                        "heading": "YOSAFAT HUTAGALUNG",
+                        "heading": "AMRIL\ndan\nNENDEN",
                         "description_1": null,
-                        "description_2": "OWNER OM HUT PARKOPI",
+                        "description_2": "FOUNDER DAN CO-FOUNDER RESTU MANDE",
                         "image": "https://via.placeholder.com/500",
-                        "image_align": "left",
-                        "background_color": "#ffffff",
-                        "text_color": "#613610",
+                        "image_align": "right",
+                        "background_color": "#F6F2EE",
+                        "text_color": "#891E20",
                         "font_type": "Times New Roman"
                     }
                 },
@@ -28,39 +28,39 @@
                         "id": 2,
                         "title": null,
                         "title_align": "left",
-                        "heading": "TENTANG YOSAFAT HUTAGALUNG",
-                        "description_1": "Memiliki tanggung jawab besar sebagai Human Capital Director, Yosafat Hutagalung tidak merasa itu sebuah halangan baginya untuk membuka sebuah bisnis. Sebagai lulusan Psikologi dari Universitas Padjadjaran, Yosafat telah bekerja di dunia Human Resource lebih dari 20 tahun. Disela kesibukannya bekerja, berbagai macam bisnis telah ia tekuni dalam kesehariannya. Dalam setiap bisnis yang ia buat, ia selalu memiliki keinginan agar bisnis yang ia buat bisa bermanfaat bagi orang banyak dan mengembangkan kemampuan setiap pekerjanya. ",
-                        "description_2": "Salah satu bisnis yang telah ia buat adalah Om Hut Parkopi yang merupakan sebuah cafe yang berada di Tangerang. Cafe Om Hut Parkopi menyediakan aneka ragam kopi yang berasal dari Indonesia. Yosafat yang berasal dari Sumatera Utara, membawakan nuansa-nuansa budaya khas Sumatera Utara kedalam konsep Cafe Om Hut Parkopi. Hal tersebut menjadi keunikan sendiri dan bisa terlihat melalui dekorasi-dekorasi cafe yang digunakan.                ",
+                        "heading": "TENTANG AMRIL DAN NENDEN",
+                        "description_1": "Berawal dart Rumah Makan Padang yang berada di Bandung, Restu Mande merupakan usaha yang dibuat oleh suami istri Alm. Amril dan Nenden. Pada awalnya masing-masing dari mereka memiliki tugas yang telah ditentukan. Alm. Amril bertanggungjawab atas produk, sementara Nenden bertanggungjawab atas manajemen dan keuangan perusahaan. Alm. Amril yang bertanggungjawab atas produk menemukan rasa yang menurutnya cocok dengan semua lidah. Kemudian, kualitas produknya dipertahankan agar sesuai dengan pakem yang telah dibuat dengan mengajarkan pekerjanya sehingga mereka bisa membuat produk Restu Mande dengan mandiri. Sementara Nenden yang bertanggungjawab atas manajemen dan keuangan memulainya dengan menjadi kasir hingga sekarang bertanggungjawab dibagian marketing dan seorang leader yang mengambil segala keputusan. Dalam menjalaninya selama ini, Nenden selalu berkomitmen bahwa Restu Mande tidak akan bekerjasama dengan investor manapun. Hal tersebut dikerenakan mendiang Alm. Amrilnselalu mengingatkan agar tidaktergiur oleh uang orang lain, dan fokus pada berkah yang telah didapatkan.",
+                        "description_2": "Sekilas memulai usahanya, Alm. Amril merupakan seorang pegawai yang bekerja di perusahaan distributor internasional dan memiliki karir yang cukup bagus. Namun hal tersebut tidak membuat Alm. Amril merasa aman dan nyaman, Alm. Amril ingin membuat bisnis yang bisa menghidupi keluarganya jika suatu saat is sudah tidak bekerja.",
                         "image": "https://via.placeholder.com/500",
                         "image_align": "left",
-                        "background_color": "#ffffff",
-                        "text_color": "#000000",
-                        "font_type": "Lato"
+                        "background_color": "#F6F2EE",
+                        "text_color": "#891E20",
+                        "font_type": null
+                    }
+                },
+                {
+                    "type": "article",
+                    "content": {
+                        "id": 3,
+                        "title": "STORY",
+                        "title_align": "left",
+                        "heading": null,
+                        "description_1": "Setelah Restu Mande berjalan sebagai bisnis rumah makan, Restu Mande mendapatkan masukkan dari pelanggan-pelanggannya untuk membuat produk yang bisa dibawa perjalanan jauh. Hal tersebut memicu Alm. Amril dan Nenden untuk membuat Masakan Padang instan dalam kemasan. Pada tahun 2011 Restu Mande mulai memproduksi makanan instan dalam kemasan, namun pada awalnya mereka kesulitan memasarkannya karena pelanggan cenderung lebih memilih rendang yang masih segar. Kemudian, pada bulan September 2011 menjadi momentum awal yang dijadikan Restu Mande untuk mulai mencoba penjualan Masakan Padang dalam kemasan ke mancanegara, karena saat itu rendang dinobatkan sebagai makanan terlezat nomor 1 di dunia.\nDengan memanfaatkan momentum tersebut, Restu Mande berinovasi dengan menciptakan rendang instan dalam kemasan dan menjadi pelopor dalam bisnis tersebut. Seiring berjalannya waktu, Restu Mande meningkatkan pe-layanannya dengan menyajikan masakan lainnya dalam bentuk kemasan. Produk Restu Mande yang telah dikemas, dihadirkan dalam bentuk instan seh-ingga konsumen dapat menikmatinya kapanpun dan dimanapun. Restu Mande juga menyajikan produk Bumbu Padang bagi konsumen yang ingin mendapatkan pengalaman memasak secara langsung.",
+                        "description_2": null,
+                        "image": "https://via.placeholder.com/500",
+                        "image_align": "left",
+                        "background_color": "#F6F2EE",
+                        "text_color": "#fff",
+                        "font_type": null
                     }
                 },
                 {
                     "type": "quotes",
                     "content": {
                         "id": 3,
-                        "quotes": "INI CONTOH QUOTES YANG DIGUNAKAN",
+                        "quotes": "RESTU MANDE THROUGH THE WORLD",
                         "quotes_align": "center",
-                        "background_color": "#653310",
-                        "text_color": "#fff",
-                        "font_type": "Arial"
-                    }
-                },
-                {
-                    "type": "article",
-                    "content": {
-                        "id": 4,
-                        "title": "KOPI BUAT SIAPA AJA",
-                        "title_align": "center",
-                        "heading": null,
-                        "description_1": "Tidak lama setelah buka, pandemi Covid-19 menerpa seluruh Indonesia. Oleh karena itu, Om Hut Parkopi harus mencari cara lain untuk memasarkan produk mereka dan tetap bertahan menghadapi pandemi. Membuat produk kopi literan dan produk makanan yang tinggal dihangatkan menjadi solusi yang dilakukan. Namun, produknya tersebut tidak dapat menjangkau banyak kalangan karena kendala jarak yang membatasi pemasarannya. Sampai akhirnya, Om Hut mendapatkan solusi dengan membuat produk kopi seduh dalam kemasan yang bisa dipasarkan ke seluruh Indonesia.",
-                        "description_2": null,
-                        "image": "https://via.placeholder.com/500",
-                        "image_align": "left",
-                        "background_color": "#653310",
+                        "background_color": "#F6F2EE",
                         "text_color": "#fff",
                         "font_type": "monospace"
                     }
@@ -69,14 +69,14 @@
                     "type": "article",
                     "content": {
                         "id": 5,
-                        "title": null,
+                        "title": "SERTIFIKASI INTERNASIONAL",
                         "title_align": "left",
-                        "heading": "KOPI YANG BERASAL DARI INDONESIA DAN PETANI INDONESIA",
-                        "description_1": "Berbagai macam kopi khas Indonesia telah tersedia dalam bentuk kemasan yang dipasarkan oleh Om Hut Parkopi. Aneka ragam kopi tersebut didapat dari hasil bekerja sama dengan para petani dan artisan lokal. Om Hut Parkopi memilih bekerja sama dengan mereka karena hal tersebut merupakan salah satu cara untuk memberdayakan para petani dan artisan lokal. Selain alasan tersebut, para petani dan artisan lokal yang telah bekerja sama telah memiliki kemampuan dan kualitas bahan yang baik. Hal tersebut memberikan keuntungan bagi kedua belah pihak dan memastikan pelanggan Om Hut Parkopi bahwa setiap produkyang dijual sudah terjamin kualitasnya.",
+                        "heading": null,
+                        "description_1": "Memiliki misi agar masakan Indonesia lebih dikenal di dunia, serta memperkenalkan kultur masakan Indonesia ke manta negara. Setiap produk Restu Mande menggunakan rempah dan bahan terbaik serta aman, hingga mendapatkan sertifikasi yang menjamin kualitas produkn-ya. Sertifikasi tersebut memberikan kesempatan bagi Restu Mande untuk 'Go International' dan menghadirkan solusi bagi orang Indonesia di luar negeri yang merindukan masakan tanah air dengan produk-produknya.\nDengan berbagai proses yang telah tersertifikasi mulai dari pemilihan bahan, proses memasak hingga pengemasannya. Produkvakum dalam kemasan Restu Mande bisa bertahan hingga 1 tahun, serta produknya tidak menggunakan bahan kimia dan MSG dalam proses pembuatan-nya.\nHal tersebut membantu dalam memasarkan produk ke mancanegara dan merealisasikan salah satu misi Restu Mande. Sampai sekarang, Restu Mande telah tersedia di beberapa retail luar negeri dan memiliki sejumlah reseller yang tersebar di Australia, Hongkong, Filipina, Nor-wegia, Prancis dan Amerika.",
                         "description_2": null,
                         "image": "https://via.placeholder.com/500",
                         "image_align": "right",
-                        "background_color": "#653310",
+                        "background_color": "#F6F2EE",
                         "text_color": "#fff",
                         "font_type": "nunito"
                     }
@@ -87,14 +87,14 @@
                         "id": 6,
                         "title": null,
                         "title_align": "left",
-                        "heading": "GROWING PEOPLE",
-                        "description_1": "Selain berbisnis, Yosafat memiliki tujuan lain dalam membangun bisnis-bisnisyang pernah ia buat. la memiliki keinginan agar setiap pegawainya tidak hanya asal bekerja, tapi bisa berkembang dalam setiap bidang yang mereka kerjakan. Hal tersebut telah dilakukannya karena latar belakangnya sebagai seorang HR dan merasa bahwa sudah tanggung jawab seorang atasan untuk mengembangkan setiap pekerja agar bisa mencapai potensi maksimalnya. ",
-                        "description_2": null,
-                        "image": "https://via.placeholder.com/500",
+                        "heading": null,
+                        "description_1": "Meskipun telah merambah ke berbagai Negara, Restu Mande tetap ingat untuk membantu orang-orang sekitar. Para pekerja di tempat produksi pun adalah ibu-ibu yang suaminya tidak memiliki pekerjaan tetap, upaya tersebut dilakukan agar keluarga-keluarga di sekitar tempat produksi setidaknya memiliki penghasilan yang tetap. Selain itu, para petani pun diajak beker-ja sama oleh Restu Mande agar petani mendapatkan harga yang layak dan Restu Mande mendapat harga yang lebih murah daripada harga pasar. Para petani pun diminta oleh Nenden untuk menanam bahan-bahan produksi yang dibutuhkan Restu Mande agar kerja sama yang dibuat oleh Restu Mande bisa menjangkau lebih banyak petani.",
+                        "description_2": "Demi melanjutkan Restu Mande, Nenden telah mempersiapkan kedua anaknya untuk memegang kendali bisnis beberapa tahun ke depan. Kedua anaknya telah disekolahkan di luar negeri dengan mimpi agar Restu Mande selalu berkembang. Nenden meminta anak-anaknya agar membuat Restu Mande tetap mengikuti zaman, mulai dari mengubah desain produk atau sosial media yang lebih mengi-kuti zaman hingga memperkenalkan kultur Indonesia ke luar negeri dengan ma-sakan Sumatera Barat telah dibebankan pada anak-anaknya. Hal tersebut dilaku-kan karena Nenden ingin Restu Mande bisa memasarkan produknya kepada ka-langan muda dan membuat Rumah Makan Padang yang bisa dijadikan tempat bagi anak muda nongkrong.",
+                        "image": null,
                         "image_align": "left",
-                        "background_color": "#653310",
+                        "background_color": "#F6F2EE",
                         "text_color": "#fff",
-                        "font_type": "cursive"
+                        "font_type": null
                     }
                 }
             ],
