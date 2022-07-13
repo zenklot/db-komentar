@@ -10,11 +10,11 @@
                     "type": "article",
                     "content": {
                         "id": 1,
-                        "title": null,
-                        "title_align": "left",
-                        "heading": "AMRIL\ndan\nNENDEN",
-                        "description_1": null,
-                        "description_2": "FOUNDER DAN CO-FOUNDER RESTU MANDE",
+                        "title": "LANGSUNG ADA JUDUL",
+                        "title_align": "center",
+                        "heading": "Disini Juga ada Heading",
+                        "description_1": "Ada deskripsi pertama juga",
+                        "description_2": "ada juga deskripsi kedua",
                         "image": "https://via.placeholder.com/500",
                         "image_align": "right",
                         "background_color": "#F6F2EE",
@@ -28,10 +28,10 @@
                         "id": 2,
                         "title": null,
                         "title_align": "left",
-                        "heading": "TENTANG AMRIL DAN NENDEN",
-                        "description_1": "Berawal dart Rumah Makan Padang yang berada di Bandung, Restu Mande merupakan usaha yang dibuat oleh suami istri Alm. Amril dan Nenden. Pada awalnya masing-masing dari mereka memiliki tugas yang telah ditentukan. Alm. Amril bertanggungjawab atas produk, sementara Nenden bertanggungjawab atas manajemen dan keuangan perusahaan. Alm. Amril yang bertanggungjawab atas produk menemukan rasa yang menurutnya cocok dengan semua lidah. Kemudian, kualitas produknya dipertahankan agar sesuai dengan pakem yang telah dibuat dengan mengajarkan pekerjanya sehingga mereka bisa membuat produk Restu Mande dengan mandiri. Sementara Nenden yang bertanggungjawab atas manajemen dan keuangan memulainya dengan menjadi kasir hingga sekarang bertanggungjawab dibagian marketing dan seorang leader yang mengambil segala keputusan. Dalam menjalaninya selama ini, Nenden selalu berkomitmen bahwa Restu Mande tidak akan bekerjasama dengan investor manapun. Hal tersebut dikerenakan mendiang Alm. Amrilnselalu mengingatkan agar tidaktergiur oleh uang orang lain, dan fokus pada berkah yang telah didapatkan.",
-                        "description_2": "Sekilas memulai usahanya, Alm. Amril merupakan seorang pegawai yang bekerja di perusahaan distributor internasional dan memiliki karir yang cukup bagus. Namun hal tersebut tidak membuat Alm. Amril merasa aman dan nyaman, Alm. Amril ingin membuat bisnis yang bisa menghidupi keluarganya jika suatu saat is sudah tidak bekerja.",
-                        "image": "https://via.placeholder.com/500",
+                        "heading": "Cuman ada headingnya doang",
+                        "description_1": null,
+                        "description_2": null,
+                        "image": null,
                         "image_align": "left",
                         "background_color": "#F6F2EE",
                         "text_color": "#891E20",
@@ -42,12 +42,12 @@
                     "type": "article",
                     "content": {
                         "id": 3,
-                        "title": "STORY",
+                        "title": null,
                         "title_align": "left",
                         "heading": null,
-                        "description_1": "Setelah Restu Mande berjalan sebagai bisnis rumah makan, Restu Mande mendapatkan masukkan dari pelanggan-pelanggannya untuk membuat produk yang bisa dibawa perjalanan jauh. Hal tersebut memicu Alm. Amril dan Nenden untuk membuat Masakan Padang instan dalam kemasan. Pada tahun 2011 Restu Mande mulai memproduksi makanan instan dalam kemasan, namun pada awalnya mereka kesulitan memasarkannya karena pelanggan cenderung lebih memilih rendang yang masih segar. Kemudian, pada bulan September 2011 menjadi momentum awal yang dijadikan Restu Mande untuk mulai mencoba penjualan Masakan Padang dalam kemasan ke mancanegara, karena saat itu rendang dinobatkan sebagai makanan terlezat nomor 1 di dunia.\nDengan memanfaatkan momentum tersebut, Restu Mande berinovasi dengan menciptakan rendang instan dalam kemasan dan menjadi pelopor dalam bisnis tersebut. Seiring berjalannya waktu, Restu Mande meningkatkan pe-layanannya dengan menyajikan masakan lainnya dalam bentuk kemasan. Produk Restu Mande yang telah dikemas, dihadirkan dalam bentuk instan seh-ingga konsumen dapat menikmatinya kapanpun dan dimanapun. Restu Mande juga menyajikan produk Bumbu Padang bagi konsumen yang ingin mendapatkan pengalaman memasak secara langsung.",
+                        "description_1": "Cuman ada deskripsi 1 nya doang",
                         "description_2": null,
-                        "image": "https://via.placeholder.com/500",
+                        "image": null,
                         "image_align": "left",
                         "background_color": "#851716",
                         "text_color": "#fff",
@@ -55,26 +55,15 @@
                     }
                 },
                 {
-                    "type": "quotes",
-                    "content": {
-                        "id": 3,
-                        "quotes": "RESTU MANDE THROUGH THE WORLD",
-                        "quotes_align": "center",
-                        "background_color": "#851716",
-                        "text_color": "#fff",
-                        "font_type": "monospace"
-                    }
-                },
-                {
                     "type": "article",
                     "content": {
-                        "id": 5,
-                        "title": "SERTIFIKASI INTERNASIONAL",
+                        "id": 4,
+                        "title": null,
                         "title_align": "left",
                         "heading": null,
-                        "description_1": "Memiliki misi agar masakan Indonesia lebih dikenal di dunia, serta memperkenalkan kultur masakan Indonesia ke manta negara. Setiap produk Restu Mande menggunakan rempah dan bahan terbaik serta aman, hingga mendapatkan sertifikasi yang menjamin kualitas produkn-ya. Sertifikasi tersebut memberikan kesempatan bagi Restu Mande untuk 'Go International' dan menghadirkan solusi bagi orang Indonesia di luar negeri yang merindukan masakan tanah air dengan produk-produknya.\nDengan berbagai proses yang telah tersertifikasi mulai dari pemilihan bahan, proses memasak hingga pengemasannya. Produkvakum dalam kemasan Restu Mande bisa bertahan hingga 1 tahun, serta produknya tidak menggunakan bahan kimia dan MSG dalam proses pembuatan-nya.\nHal tersebut membantu dalam memasarkan produk ke mancanegara dan merealisasikan salah satu misi Restu Mande. Sampai sekarang, Restu Mande telah tersedia di beberapa retail luar negeri dan memiliki sejumlah reseller yang tersebar di Australia, Hongkong, Filipina, Nor-wegia, Prancis dan Amerika.",
+                        "description_1": "Cuman ada deskripsi 1 nya doang tapi imgnya right",
                         "description_2": null,
-                        "image": "https://via.placeholder.com/500",
+                        "image": null,
                         "image_align": "right",
                         "background_color": "#851716",
                         "text_color": "#fff",
@@ -84,13 +73,61 @@
                 {
                     "type": "article",
                     "content": {
-                        "id": 6,
+                        "id": 5,
                         "title": null,
                         "title_align": "left",
                         "heading": null,
-                        "description_1": "Meskipun telah merambah ke berbagai Negara, Restu Mande tetap ingat untuk membantu orang-orang sekitar. Para pekerja di tempat produksi pun adalah ibu-ibu yang suaminya tidak memiliki pekerjaan tetap, upaya tersebut dilakukan agar keluarga-keluarga di sekitar tempat produksi setidaknya memiliki penghasilan yang tetap. Selain itu, para petani pun diajak beker-ja sama oleh Restu Mande agar petani mendapatkan harga yang layak dan Restu Mande mendapat harga yang lebih murah daripada harga pasar. Para petani pun diminta oleh Nenden untuk menanam bahan-bahan produksi yang dibutuhkan Restu Mande agar kerja sama yang dibuat oleh Restu Mande bisa menjangkau lebih banyak petani.",
-                        "description_2": "Demi melanjutkan Restu Mande, Nenden telah mempersiapkan kedua anaknya untuk memegang kendali bisnis beberapa tahun ke depan. Kedua anaknya telah disekolahkan di luar negeri dengan mimpi agar Restu Mande selalu berkembang. Nenden meminta anak-anaknya agar membuat Restu Mande tetap mengikuti zaman, mulai dari mengubah desain produk atau sosial media yang lebih mengi-kuti zaman hingga memperkenalkan kultur Indonesia ke luar negeri dengan ma-sakan Sumatera Barat telah dibebankan pada anak-anaknya. Hal tersebut dilaku-kan karena Nenden ingin Restu Mande bisa memasarkan produknya kepada ka-langan muda dan membuat Rumah Makan Padang yang bisa dijadikan tempat bagi anak muda nongkrong.",
+                        "description_1": null,
+                        "description_2": "cuman ada deskripsi 2 nya doang",
                         "image": null,
+                        "image_align": "left",
+                        "background_color": "#851716",
+                        "text_color": "#fff",
+                        "font_type": null
+                    }
+                },
+                {
+                    "type": "article",
+                    "content": {
+                        "id": 6,
+                        "title": "Cuman ada judul nya doang",
+                        "title_align": "right",
+                        "heading": null,
+                        "description_1": null,
+                        "description_2": null,
+                        "image": null,
+                        "image_align": "left",
+                        "background_color": "#851716",
+                        "text_color": "#fff",
+                        "font_type": null
+                    }
+                },
+                {
+                    "type": "article",
+                    "content": {
+                        "id": 7,
+                        "title": null,
+                        "title_align": "right",
+                        "heading": null,
+                        "description_1": null,
+                        "description_2": null,
+                        "image": "https://via.placeholder.com/500",
+                        "image_align": "right",
+                        "background_color": "#851716",
+                        "text_color": "#fff",
+                        "font_type": null
+                    }
+                },
+                {
+                    "type": "article",
+                    "content": {
+                        "id": 8,
+                        "title": null,
+                        "title_align": "right",
+                        "heading": null,
+                        "description_1": null,
+                        "description_2": null,
+                        "image": "https://via.placeholder.com/500",
                         "image_align": "left",
                         "background_color": "#851716",
                         "text_color": "#fff",
