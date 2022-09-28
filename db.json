@@ -1,91 +1,169 @@
 {
-    "purchase-order": {
-        "status": "success",
-        "message": "berhasil mengambil data",
-        "meta": {
-            "page": 1,
-            "perPage": 10,
-            "totalItems": 11
+  "purchase-order": {
+    "status": "success",
+    "message": "berhasil mengambil data",
+    "meta": {
+      "page": 1,
+      "perPage": 10,
+      "totalItems": 11
+    },
+    "resource": [
+      {
+        "id": 1,
+        "no_po": "PO#02839829213",
+        "status": 1,
+        "status_info": "Menunggu Konfirmasi",
+        "downline": {
+          "po_name": "Bening’s Tangel",
+          "name": "Asep Junaedi",
+          "phone": "085177820011"
         },
-        "resource": [
-            {
-                "id": 1,
-                "no_po": "PO#02839829213",
-                "status" : 1,
-                "status_info": "Menunggu Konfirmasi",
-                "downline": {
-                    "po_name" : "Bening’s Tangel",
-                    "name" : "Asep Junaedi",
-                    "phone" : "085177820011"
-                },
-                "products": [
-                    {
-                        "id" : 1,
-                        "image_url" : "https://via.placeholder.com/150",
-                        "name" : "Night Cream Brigtening",
-                        "stock" : 23,
-                        "harga" : 300000
-                    },
-                    {
-                        "id" : 2,
-                        "image_url" : "https://via.placeholder.com/150",
-                        "name" : "Paket Acne Skincare",
-                        "stock" : 10,
-                        "harga" : 500000,
-                        "products" : [
-                            {
-                                "id" : 3,
-                                "image_url" : "https://via.placeholder.com/150",
-                                "name" : "Acne Facial Wash",
-                                "stock" : 10,
-                                "harga" : 300000
-                            },
-                            {
-                                "id" : 4,
-                                "image_url" : "https://via.placeholder.com/150",
-                                "name" : "Acne Toner",
-                                "stock" : 10,
-                                "harga" : 300000
-                            }
-                        ]
-                    }
-                ],
-                "total_order": 4000000,
-                "shipping": 500000,
-                "total" : 4500000,
-                "created_at" : "2020-04-02T17:26:13.265Z"
-            },
-            {
-                "id": 2,
-                "no_po": "PO#02839829214",
-                "status" : 2,
-                "status_info": "Dikonfirmasi",
-                "downline": {
-                    "po_name" : "Bening’s Bandung",
-                    "name" : "Udin Saepudin",
-                    "phone" : "085177820011"
-                },
-                "products": [
-                    {
-                        "id" : 1,
-                        "image_url" : "https://via.placeholder.com/150",
-                        "name" : "Night Cream Brigtening",
-                        "stock" : 23,
-                        "harga" : 300000
-                    },
-                    {
-                        "id" : 3,
-                        "image_url" : "https://via.placeholder.com/150",
-                        "name" : "Cream Brigtening",
-                        "stock" : 20,
-                        "harga" : 200000
-                    }
-                ],
-                "total_order": 4000000,
-                "shipping": 500000,
-                "total" : 4500000,
-                "created_at" : "2020-04-02T17:26:13.265Z"
-            }
+        "products": [
+          {
+            "id": 1,
+            "image_url": "https://via.placeholder.com/150",
+            "name": "Night Cream Brigtening",
+            "stock": 23,
+            "harga": 300000
+          },
+          {
+            "id": 2,
+            "image_url": "https://via.placeholder.com/150",
+            "name": "Paket Acne Skincare",
+            "stock": 10,
+            "harga": 500000,
+            "products": [
+              {
+                "id": 3,
+                "image_url": "https://via.placeholder.com/150",
+                "name": "Acne Facial Wash",
+                "stock": 10,
+                "harga": 300000
+              },
+              {
+                "id": 4,
+                "image_url": "https://via.placeholder.com/150",
+                "name": "Acne Toner",
+                "stock": 10,
+                "harga": 300000
+              }
+            ]
+          }
+        ],
+        "total_order": 4000000,
+        "shipping": 500000,
+        "total": 4500000,
+        "created_at": "2020-04-02T17:26:13.265Z"
+      },
+      {
+        "id": 2,
+        "no_po": "PO#02839829214",
+        "status": 2,
+        "status_info": "Dikonfirmasi",
+        "downline": {
+          "po_name": "Bening’s Bandung",
+          "name": "Udin Saepudin",
+          "phone": "085177820011"
+        },
+        "products": [
+          {
+            "id": 1,
+            "image_url": "https://via.placeholder.com/150",
+            "name": "Night Cream Brigtening",
+            "stock": 23,
+            "harga": 300000
+          },
+          {
+            "id": 3,
+            "image_url": "https://via.placeholder.com/150",
+            "name": "Cream Brigtening",
+            "stock": 20,
+            "harga": 200000
+          }
+        ],
+        "total_order": 4000000,
+        "shipping": 500000,
+        "total": 4500000,
+        "created_at": "2020-04-02T17:26:13.265Z"
+      }
+    ]
+  },
+  "1": {
+    "id": 1,
+    "no_po": "PO#02839829213",
+    "status": 1,
+    "status_info": "Menunggu Konfirmasi",
+    "downline": {
+      "po_name": "Bening’s Tangel",
+      "name": "Asep Junaedi",
+      "phone": "085177820011"
+    },
+    "products": [
+      {
+        "id": 1,
+        "image_url": "https://via.placeholder.com/150",
+        "name": "Night Cream Brigtening",
+        "stock": 23,
+        "harga": 300000
+      },
+      {
+        "id": 2,
+        "image_url": "https://via.placeholder.com/150",
+        "name": "Paket Acne Skincare",
+        "stock": 10,
+        "harga": 500000,
+        "products": [
+          {
+            "id": 3,
+            "image_url": "https://via.placeholder.com/150",
+            "name": "Acne Facial Wash",
+            "stock": 10,
+            "harga": 300000
+          },
+          {
+            "id": 4,
+            "image_url": "https://via.placeholder.com/150",
+            "name": "Acne Toner",
+            "stock": 10,
+            "harga": 300000
+          }
         ]
-    }
+      }
+    ],
+    "total_order": 4000000,
+    "shipping": 500000,
+    "total": 4500000,
+    "created_at": "2020-04-02T17:26:13.265Z"
+  },
+  "2": {
+    "id": 2,
+    "no_po": "PO#02839829214",
+    "status": 2,
+    "status_info": "Dikonfirmasi",
+    "downline": {
+      "po_name": "Bening’s Bandung",
+      "name": "Udin Saepudin",
+      "phone": "085177820011"
+    },
+    "products": [
+      {
+        "id": 1,
+        "image_url": "https://via.placeholder.com/150",
+        "name": "Night Cream Brigtening",
+        "stock": 23,
+        "harga": 300000
+      },
+      {
+        "id": 3,
+        "image_url": "https://via.placeholder.com/150",
+        "name": "Cream Brigtening",
+        "stock": 20,
+        "harga": 200000
+      }
+    ],
+    "total_order": 4000000,
+    "shipping": 500000,
+    "total": 4500000,
+    "created_at": "2020-04-02T17:26:13.265Z"
+  }
 }
