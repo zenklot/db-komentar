@@ -60,5 +60,26 @@
       "name": "Solo",
       "address": "Solo, Jawa Tengah"
     }
-  ]
+  ],
+  "KRYWN-202310-0018":{
+    "id": "KRYWN-202310-0018",
+    "fullname": "YOUR NAME",
+    "gender": "L",
+    "date_of_birth": "09/10/2023",
+    "position": "Frontend Developer",
+    "avatar": "https://images.unsplash.com/photo-1544502062-f82887f03d1c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3359&q=80",
+    "branch": {
+      "id": 2,
+      "email": "cabang_bandung@gmail.com",
+      "name": "Bandung",
+      "address": "Bandung, Jawa Barat"
+    },
+    "social_media": [
+      {
+        "twitter": "URL",
+        "facebook": "URL",
+        "instagram": "URL"
+      }
+    ]
+  }
 }
